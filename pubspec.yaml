@@ -1,6 +1,6 @@
 name: social_share_plus
 description: "Social Share Plus: Wide variety of sharing options you'll need to share directly to certain well-known apps."
-version: 0.0.1
+version: 0.0.4
 homepage: https://github.com/sawin0/social_share_plus
 
 environment:
