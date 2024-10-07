@@ -1,7 +1,7 @@
 name: social_share_plus
-description: "A new Flutter project."
+description: "Social Share Plus: Wide variety of sharing options you'll need to share directly to certain well-known apps."
 version: 0.0.1
-homepage:
+homepage: https://github.com/sawin0/social_share_plus
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
@@ -11,12 +11,12 @@ dependencies:
   flutter:
     sdk: flutter
   path_provider: ^2.1.4
-  plugin_platform_interface: ^2.0.2
+  plugin_platform_interface: ^2.1.8
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: ^3.0.2
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
